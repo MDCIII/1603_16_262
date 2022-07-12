@@ -3,6 +3,7 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix wdata: <http://www.wikidata.org/wiki/Special:EntityData/> .
 
 <urn:mdciii:1603:16()>
     a skos:ConceptScheme ;
@@ -25,25 +26,30 @@
 <urn:mdciii:1603:16:262:1:1>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:262:1:1" ;
-    skos:prefLabel "Obock"@eng-Latn .
+    skos:prefLabel "Obock"@eng-Latn ;
+    wdata:q7200235 "DJ01" .
 
 <urn:mdciii:1603:16:262:1:2>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:262:1:2" ;
-    skos:prefLabel "Tadjourah"@eng-Latn .
+    skos:prefLabel "Tadjourah"@eng-Latn ;
+    wdata:q7200235 "DJ02" .
 
 <urn:mdciii:1603:16:262:1:3>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:262:1:3" ;
-    skos:prefLabel "Dilkhil"@eng-Latn .
+    skos:prefLabel "Dilkhil"@eng-Latn ;
+    wdata:q7200235 "DJ03" .
 
 <urn:mdciii:1603:16:262:1:4>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:262:1:4" ;
-    skos:prefLabel "Djibouti"@eng-Latn .
+    skos:prefLabel "Djibouti"@eng-Latn ;
+    wdata:q7200235 "DJ04" .
 
 <urn:mdciii:1603:16:262:1:5>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:262:1:5" ;
-    skos:prefLabel "Ali Sabeh"@eng-Latn .
+    skos:prefLabel "Ali Sabeh"@eng-Latn ;
+    wdata:q7200235 "DJ05" .
 
