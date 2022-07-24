@@ -24,7 +24,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:262:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:262:1:1> ;
     skos:prefLabel "Alaili Dadda"@eng-Latn ;
-    wdata:q7200235 "DJ0101" ;
+    wdata:Q7200235 "DJ0101" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -57,7 +57,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:262:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:262:1:1> ;
     skos:prefLabel "Obock"@eng-Latn ;
-    wdata:q7200235 "DJ0102" ;
+    wdata:Q7200235 "DJ0102" ;
 .
 
 <urn:mdciii:1603:16:262:2:201>
@@ -69,7 +69,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:262:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:262:1:2> ;
     skos:prefLabel "Dorra"@eng-Latn ;
-    wdata:q7200235 "DJ0201" ;
+    wdata:Q7200235 "DJ0201" ;
 .
 
 <urn:mdciii:1603:16:262:2:202>
@@ -81,7 +81,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:262:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:262:1:2> ;
     skos:prefLabel "Randa"@eng-Latn ;
-    wdata:q7200235 "DJ0202" ;
+    wdata:Q7200235 "DJ0202" ;
 .
 
 <urn:mdciii:1603:16:262:2:203>
@@ -93,7 +93,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:262:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:262:1:2> ;
     skos:prefLabel "Balha"@eng-Latn ;
-    wdata:q7200235 "DJ0203" ;
+    wdata:Q7200235 "DJ0203" ;
 .
 
 <urn:mdciii:1603:16:262:2:204>
@@ -105,7 +105,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:262:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:262:1:2> ;
     skos:prefLabel "Tadjourah"@eng-Latn ;
-    wdata:q7200235 "DJ0204" ;
+    wdata:Q7200235 "DJ0204" ;
 .
 
 <urn:mdciii:1603:16:262:2:301>
@@ -117,7 +117,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:262:1:3> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:262:1:3> ;
     skos:prefLabel "YobokiI"@eng-Latn ;
-    wdata:q7200235 "DJ0301" ;
+    wdata:Q7200235 "DJ0301" ;
 .
 
 <urn:mdciii:1603:16:262:2:302>
@@ -129,7 +129,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:262:1:3> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:262:1:3> ;
     skos:prefLabel "Dilkhil"@eng-Latn ;
-    wdata:q7200235 "DJ0302" ;
+    wdata:Q7200235 "DJ0302" ;
 .
 
 <urn:mdciii:1603:16:262:2:303>
@@ -141,7 +141,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:262:1:3> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:262:1:3> ;
     skos:prefLabel "As Eyla"@eng-Latn ;
-    wdata:q7200235 "DJ0303" ;
+    wdata:Q7200235 "DJ0303" ;
 .
 
 <urn:mdciii:1603:16:262:2:401>
@@ -153,7 +153,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:262:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:262:1:4> ;
     skos:prefLabel "Djibouti"@eng-Latn ;
-    wdata:q7200235 "DJ0401" ;
+    wdata:Q7200235 "DJ0401" ;
 .
 
 <urn:mdciii:1603:16:262:2:501>
@@ -165,6 +165,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:262:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:262:1:5> ;
     skos:prefLabel "Ali Sabeh"@eng-Latn ;
-    wdata:q7200235 "DJ0501" ;
+    wdata:Q7200235 "DJ0501" ;
 .
 

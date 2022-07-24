@@ -23,7 +23,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:262:1:1" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:262:0> ;
     skos:prefLabel "Obock"@eng-Latn ;
-    wdata:q7200235 "DJ01" ;
+    wdata:Q7200235 "DJ01" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -49,7 +49,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:262:1:2" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:262:0> ;
     skos:prefLabel "Tadjourah"@eng-Latn ;
-    wdata:q7200235 "DJ02" ;
+    wdata:Q7200235 "DJ02" ;
 .
 
 <urn:mdciii:1603:16:262:1:3>
@@ -60,7 +60,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:262:1:3" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:262:0> ;
     skos:prefLabel "Dilkhil"@eng-Latn ;
-    wdata:q7200235 "DJ03" ;
+    wdata:Q7200235 "DJ03" ;
 .
 
 <urn:mdciii:1603:16:262:1:4>
@@ -71,7 +71,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:262:1:4" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:262:0> ;
     skos:prefLabel "Djibouti"@eng-Latn ;
-    wdata:q7200235 "DJ04" ;
+    wdata:Q7200235 "DJ04" ;
 .
 
 <urn:mdciii:1603:16:262:1:5>
@@ -82,6 +82,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:262:1:5" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:262:0> ;
     skos:prefLabel "Ali Sabeh"@eng-Latn ;
-    wdata:q7200235 "DJ05" ;
+    wdata:Q7200235 "DJ05" ;
 .
 

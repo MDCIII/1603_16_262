@@ -1,7 +1,6 @@
 PREFIX owl: <http://www.w3.org/2002/07/owl#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
-PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
 
 <urn:mdciii:1603:16:262()>
     a skos:Collection ;
@@ -20,7 +19,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:262:2:101" ;
     skos:prefLabel "Alaili Dadda"@eng-Latn ;
-    wdata:q7200235 "DJ0101" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -50,7 +48,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:262:2:102" ;
     skos:prefLabel "Obock"@eng-Latn ;
-    wdata:q7200235 "DJ0102" ;
 .
 
 <urn:mdciii:1603:16:262:2:201>
@@ -59,7 +56,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:262:2:201" ;
     skos:prefLabel "Dorra"@eng-Latn ;
-    wdata:q7200235 "DJ0201" ;
 .
 
 <urn:mdciii:1603:16:262:2:202>
@@ -68,7 +64,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:262:2:202" ;
     skos:prefLabel "Randa"@eng-Latn ;
-    wdata:q7200235 "DJ0202" ;
 .
 
 <urn:mdciii:1603:16:262:2:203>
@@ -77,7 +72,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:262:2:203" ;
     skos:prefLabel "Balha"@eng-Latn ;
-    wdata:q7200235 "DJ0203" ;
 .
 
 <urn:mdciii:1603:16:262:2:204>
@@ -86,7 +80,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:262:2:204" ;
     skos:prefLabel "Tadjourah"@eng-Latn ;
-    wdata:q7200235 "DJ0204" ;
 .
 
 <urn:mdciii:1603:16:262:2:301>
@@ -95,7 +88,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:262:2:301" ;
     skos:prefLabel "YobokiI"@eng-Latn ;
-    wdata:q7200235 "DJ0301" ;
 .
 
 <urn:mdciii:1603:16:262:2:302>
@@ -104,7 +96,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:262:2:302" ;
     skos:prefLabel "Dilkhil"@eng-Latn ;
-    wdata:q7200235 "DJ0302" ;
 .
 
 <urn:mdciii:1603:16:262:2:303>
@@ -113,7 +104,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:262:2:303" ;
     skos:prefLabel "As Eyla"@eng-Latn ;
-    wdata:q7200235 "DJ0303" ;
 .
 
 <urn:mdciii:1603:16:262:2:401>
@@ -122,7 +112,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:262:2:401" ;
     skos:prefLabel "Djibouti"@eng-Latn ;
-    wdata:q7200235 "DJ0401" ;
 .
 
 <urn:mdciii:1603:16:262:2:501>
@@ -131,6 +120,5 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:262:2:501" ;
     skos:prefLabel "Ali Sabeh"@eng-Latn ;
-    wdata:q7200235 "DJ0501" ;
 .
 
